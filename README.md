@@ -35,3 +35,9 @@ This repository contains resources and assignments for the "Python for Data Scie
    - Reading and Writing Files, Pandas, Numpy
 5. **APIs and Data Collection**
    - Simple APIs, REST APIs, Web Scraping, Working with Files
+
+# Credits
+**Course:** [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)  
+**Instructor:** Joseph Santarcangelo, Ph.D. (IBM)  
+**Platform:** Coursera (IBM Developer Skills Network)
+<sub>This beginner-friendly course covers Python basics, data types, data structures, and libraries like Pandas, Numpy, and Beautiful Soup.</sub>
