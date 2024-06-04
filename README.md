@@ -1,4 +1,6 @@
-# python-data-science-ai-dev
+# Python Data Science, AI & Development
+![A clean design for a Data Science GitHub repository, featuring data charts, code snippets, and icons for Python, Jupyter, and SQL. The background is sleek and abstract, with professional blue and white colors.](images/rectangular_logo.png)
+
 Beginner-friendly course on Python programming, data structures, and data collection for Data Science, AI, and development.
 
 # Python for Data Science, AI & Development
